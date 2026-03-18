@@ -1,45 +1,91 @@
 <h1 align="center">Hi 👋, I'm Abijith</h1>
-<h3 align="center">🚀 B.Tech CSE Student | Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+SDE;Full+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Tech" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/abimad123">
+    <img src="https://komarev.com/ghpvc/?username=abimad123&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  </a>
+</p>
 
 ---
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-## 👨‍💻 About Me
-- 🎓 B.Tech CSE @ Lovely Professional University  
-- 💻 Passionate about building real-world projects  
-- 🌱 Currently learning Full Stack Development  
-- ⚡ Focused on improving coding + problem solving  
 
----
+## 🚀 About Me
+
+
+
+- 🎓 B.Tech CSE student at **Lovely Professional University**  
+- 💻 Passionate about building **real-world full stack applications**  
+- 🚀 Currently exploring **backend systems & scalable architectures**  
+- 🧠 Strong focus on **problem solving & practical development**  
+- ⚡ Turning ideas into **functional products, not just code**  
 
 ## 🛠️ Tech Stack
-- 💻 Languages: Java, JavaScript, C  
-- 🌐 Frontend: HTML, CSS, Tailwind, React  
-- ⚙️ Backend: PHP, Firebase  
-- 🛢️ Database: MySQL  
-- 🛠️ Tools: Git, GitHub, VS Code  
 
----
-
-## 🚀 Projects
-- 🔹 Smart Portfolio Management System  
-- 🔹 Veterinary & Pet Shop Management System  
-- 🔹 Kripa Home Solutions Website  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,php,firebase,mysql,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Abi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abimad123&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abimad123&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 🌐 Portfolio: http://www.abijith.me  
-- 📧 Email: abijithc140@gmail.com  
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=abimad123&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+</p>
 
 ---
 
-## 🔥 Fun Fact
-I love turning ideas into real-world projects 🚀
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abimad123&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/abimad123">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abimad123&repo=kripaHomeSolutions&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/abimad123">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abimad123&repo=Protfolio-Abi&theme=tokyonight&hide_border=true" />
+  </a>
+   <a href="https://github.com/abimad123">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abimad123&repo=Digital-Document-Vault&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/abimad123">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abimad123&repo=E-Voting-System&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abijith-c-g">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="http://www.abijith.me">
+    <img src="https://skillicons.dev/icons?i=web" />
+  </a>
+  <a href="mailto:abijithc140@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## 🧠 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
