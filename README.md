@@ -49,25 +49,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/abimad123">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abimad123&repo=kripaHomeSolutions&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/abimad123">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abimad123&repo=Protfolio-Abi&theme=tokyonight&hide_border=true" />
-  </a>
-   <a href="https://github.com/abimad123">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abimad123&repo=Digital-Document-Vault&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/abimad123">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abimad123&repo=E-Voting-System&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
